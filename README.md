@@ -14,7 +14,7 @@ git clone https://github.com/Cotto213/Lista-Antojitos.git
 ```
 3. Ingresa al directorio del proyecto usando el comando:
 ```
-cd comida
+cd lista-antojitos
 ```
 ## Instalar dependencias
 1. En el directorio del proyecto, ejecuta el siguiente comando para instalar las
