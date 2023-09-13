@@ -1,4 +1,4 @@
-# DPS-Comidas: Proyecto de Prueba con React-Native. 
+# Lista-Antojitos: Proyecto de Prueba con React-Native. 
 #ALFONSO FERNÁNDEZ FC200910
 ¡Bienvenido a DPS-Comidas! Este es un proyecto de muestra creado para demostrar
 cómo configurar y ejecutar una aplicación básica de React-Native. Sigue
